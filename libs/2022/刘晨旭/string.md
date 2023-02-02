@@ -1,4 +1,4 @@
-## 串的链式结构
+## 串的链式
 ```c
 #includ<stdlib.h>
 typedef struct node{
